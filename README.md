@@ -30,5 +30,4 @@ Student Management System is a console-based application developed in C++. The p
 ## Author
 
 Zaid Bin Irshad
-BS Information Technology
-Bahria University Karachi Campus
+
